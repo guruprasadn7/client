@@ -1,0 +1,50 @@
+2023-04-07T11:51:10.953+05:30  INFO 25244 --- [main] com.example.test.demo.DemoApplication    : Starting DemoApplication using Java 17.0.5 with PID 25244 (/home/guruprasad/Documents/Learning/java/demo/build/classes/java/main started by guruprasad in /home/guruprasad/Documents/Learning/java/demo)
+2023-04-07T11:51:10.956+05:30  INFO 25244 --- [main] com.example.test.demo.DemoApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-04-07T11:51:12.584+05:30  INFO 25244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-07T11:51:12.606+05:30  INFO 25244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-07T11:51:12.607+05:30  INFO 25244 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-07T11:51:12.781+05:30  INFO 25244 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-07T11:51:12.782+05:30  INFO 25244 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1758 ms
+2023-04-07T11:51:13.721+05:30  INFO 25244 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-04-07T11:51:13.806+05:30  INFO 25244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-07T11:51:13.825+05:30  INFO 25244 --- [main] com.example.test.demo.DemoApplication    : Started DemoApplication in 3.386 seconds (process running for 3.763)
+2023-04-07T11:51:14.032+05:30  INFO 25244 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as 9c45df71b923
+2023-04-07T11:51:14.074+05:30  INFO 25244 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-07T11:51:14.074+05:30  INFO 25244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-07T11:51:14.076+05:30  INFO 25244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-07T11:51:29.887+05:30  INFO 25422 --- [main] com.example.test.demo.DemoApplication    : Starting DemoApplication using Java 17.0.5 with PID 25422 (/home/guruprasad/Documents/Learning/java/demo/build/classes/java/main started by guruprasad in /home/guruprasad/Documents/Learning/java/demo)
+2023-04-07T11:51:29.891+05:30  INFO 25422 --- [main] com.example.test.demo.DemoApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-04-07T11:51:31.312+05:30  INFO 25422 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-07T11:51:31.323+05:30  INFO 25422 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-07T11:51:31.324+05:30  INFO 25422 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-07T11:51:31.426+05:30  INFO 25422 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-07T11:51:31.427+05:30  INFO 25422 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1464 ms
+2023-04-07T11:51:32.108+05:30  INFO 25422 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-04-07T11:51:32.211+05:30  INFO 25422 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-07T11:51:32.233+05:30  INFO 25422 --- [main] com.example.test.demo.DemoApplication    : Started DemoApplication in 2.818 seconds (process running for 3.219)
+2023-04-07T11:51:32.476+05:30  INFO 25422 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as 9c45df71b923
+2023-04-07T11:51:32.508+05:30  INFO 25422 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-07T11:51:32.509+05:30  INFO 25422 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-07T11:51:32.511+05:30  INFO 25422 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-04-07T13:06:26.465+05:30  INFO 41637 --- [Test worker] c.e.test.demo.DemoApplicationTests       : Starting DemoApplicationTests using Java 17.0.6 with PID 41637 (started by guruprasad in /home/guruprasad/Documents/Learning/java/demo)
+2023-04-07T13:06:26.467+05:30  INFO 41637 --- [Test worker] c.e.test.demo.DemoApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2023-04-07T13:06:27.615+05:30  INFO 41637 --- [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-04-07T13:06:27.663+05:30  INFO 41637 --- [Test worker] c.e.test.demo.DemoApplicationTests       : Started DemoApplicationTests in 1.405 seconds (process running for 2.246)
+2023-04-07T13:06:27.713+05:30 ERROR 41637 --- [registrationTask1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+java.lang.IllegalStateException: couldn't determine local port. Please set spring.boot.admin.client.instance.service-base-url.
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getLocalServerPort(DefaultApplicationFactory.java:205) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getServiceBaseUrl(DefaultApplicationFactory.java:109) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getServiceUrl(ServletApplicationFactory.java:62) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getManagementBaseUrl(ServletApplicationFactory.java:77) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getHealthUrl(DefaultApplicationFactory.java:165) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.createApplication(DefaultApplicationFactory.java:80) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationRegistrator.register(DefaultApplicationRegistrator.java:56) ~[spring-boot-admin-client-3.0.2.jar:3.0.2]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
